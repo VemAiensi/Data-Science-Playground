@@ -1,0 +1,12 @@
+# ABOUT WEEK 3
+- Logistic Regression
+  - Logistic function
+      - Sigmoid function
+  - Decision Boundary
+  - Cost Function
+       - Loss function
+  - Generalization
+      - omitting certain features
+      - Regularization
+          - choosing Lamda
+- Practice Lab
