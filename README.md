@@ -1,2 +1,2 @@
-# Machine-Learning-Playground
+# Data-Science-Playground
 All about machine learning
